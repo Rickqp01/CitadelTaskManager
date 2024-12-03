@@ -1,0 +1,4 @@
+/* toastr growl notices */
+.toast {max-width: 90% !important; } 
+#toast-container>div { opacity: .9 !important; } 
+.toast-success, .toast-error, .toast-info, .toast-warning { box-shadow: none !important; }
